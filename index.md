@@ -3,6 +3,7 @@
     <head>
         <title>Welcome to VIT-AP</title>
         <link rel="stylesheet" href="styles.css">
+        
         </head>
     <body>
             <a name="bot"></a>
